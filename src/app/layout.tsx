@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SYSTEM REPAIR REQUIRED",
-  description: "Fatal exception 0xJDHA-CHOE occurred",
+  title: "LIVE | Dorji Tshomo on TikTok",
+  description: "Watch Dorji Tshomo's live stream on TikTok.",
 };
 
 export default function RootLayout({
